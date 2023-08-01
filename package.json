@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "edutute_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niteshchandrakar/edutute_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niteshchandrakar/edutute_api/issues"
+  },
+  "homepage": "https://github.com/niteshchandrakar/edutute_api#readme",
+  "description": ""
+}
